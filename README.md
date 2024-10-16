@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0046-permutations) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Search
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
