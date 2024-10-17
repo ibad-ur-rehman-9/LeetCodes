@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0046-permutations) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0792-binary-search](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0792-binary-search](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
