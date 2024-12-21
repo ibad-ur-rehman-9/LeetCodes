@@ -82,4 +82,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
