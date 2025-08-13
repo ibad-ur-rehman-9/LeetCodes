@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/ibad-ur-rehman-9/LeetCodes/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
